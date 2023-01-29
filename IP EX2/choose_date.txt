@@ -1,0 +1,140 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Seat Booking page</title>
+        <style>
+            body{
+                text-align: center;
+                color: white;
+                }
+        </style>
+        </head>
+    <body
+        style= "background-image: url('res2.jpg');
+        background-size: cover;
+        background-repeat: no-repeat;">
+        <h1 style="font-style: italic;
+            font-size:40px;
+            text-align: center;">
+            THE GRILL SPOT</h1>
+        <div style="text-align: center;
+             font-size: 40;">    
+        <form>
+            <h2> <b>THERE IS NOTHING MORE ROMANTIC THAN FOOD..</b></h2>
+            <label for="Date"><b>Date:</b> </label>            
+            <br><br>
+            <input type="date" id="Date" name="date" >
+            <br><br>
+            <p><b>Session:</b></p>
+            &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<input type="radio" id="html" name="bf" value="HTML">
+            <label for="html">Breakfast</label><br>
+            <input type="radio" id="html" name="bf" value="HTML">
+            <label for="html">Lunch</label><br>
+            &nbsp;<input type="radio" id="html" name="bf" value="HTML">
+            <label for="html">Dinner</label><br>
+        </form>
+        </div>
+        <p style="align-self:center "><b>Cuisine Available:</b></p>
+        <table border="3" align="center" width="50%" >
+            <style>
+                th,td{
+                    background-color: burlywood;
+                    border-color: black;
+                    font-style: oblique;
+                    font-size: 13px;
+                    }
+                    </style>
+            <tr>   
+            <th>INDIAN</th>
+            <th>CHINESE</th>
+            <th>MEXICAN</th>
+            </tr>
+            <tr>
+                <td align="left" >
+                    <pre>
+                    <b style="color: black;">BREAKFAST:</b>
+                    &clubs;MASALA DOSA
+                    &clubs;KICHADI
+                    &clubs;ALOO PARATHA
+                    &clubs;PANEER GRAVY
+                    &clubs;PANI POORI
+                    <br>
+                    <b style="color: black">LUNCH:</b>
+                    &clubs;BRIYANI
+                    &clubs;TANDOORI CHICKEN
+                    &clubs;JEERA RICE
+                    &clubs;NAAN
+                    &clubs;CHETTINAD CHICKEN
+                    <br>
+                    <b style="color: black">DINNER:</b>
+                    &clubs;COIN PARATHA
+                    &clubs;KOTHU PARATHA
+                    &clubs;PEPPER CHICKEN 
+                    &clubs;ANDRA CHICKEN
+                    &clubs;PAV BHAJI
+                    </pre>
+                </td>    
+                <td align="left">
+                    <pre>
+                    <b style="color: black">BREAKFAST:</b>
+                    &clubs;DIM SUM
+                    &clubs;BAOZI
+                    &clubs;TEA EGGS
+                    &clubs;JIANBING
+                    &clubs;YOUTIAO
+                    <br>
+                    <b style="color: black">LUNCH:</b>
+                    &clubs;VEG MOMOS
+                    &clubs;CHILLI CHICKEN
+                    &clubs;FRIED RICE
+                    &clubs;VEG ROLL
+                    &clubs;SWEET AND SOUR SOUP
+                    <br>
+                    <b style="color: black">DINNER:</b>
+                    &clubs;NOODLES
+                    &clubs;HIBACHI STEAK
+                    &clubs;LO MEIN 
+                    &clubs;ORANGE CHICKRN
+                    &clubs;SESAME CHICKRN
+                    </pre>
+                </td>    
+                <td align="left">
+                    <pre>
+                    <b style="color: black">BREAKFAST:</b>
+                    &clubs;CHILLI CON CARNE
+                    &clubs;GUACAMOLE
+                    &clubs;ENCHILADAS
+                    &clubs;VEGGIE BURRITO
+                    &clubs;FAJITAS
+                    <br>
+                    <b style="color: black">LUNCH:</b>
+                    &clubs;BURRITOS WITH MEAT
+                    &clubs;SALSA
+                    &clubs;MEXICAN RICE
+                    &clubs;YOGURT DIP
+                    &clubs;TAMALES
+                    <br>
+                    <b style="color: black">DINNER:</b>
+                    &clubs;CHICKEN QUESADILLA
+                    &clubs;TACOS
+                    &clubs;RED SNIPPER CRUZANA 
+                    &clubs;MEXICAN CHICKEN RICE
+                    &clubs;TORTILLAS
+                    </pre>
+                </td>    
+            </tr>
+            </table>
+        <form>
+            <br><br>
+            <p><b>Choose your Mind Blowing Cuisine:</b></p>
+            <input type="radio" id="html" name="cu" value="HTML">
+            <label for="html">INDIAN</label><br>
+            &nbsp;&nbsp;&nbsp;<input type="radio" id="html" name="cu" value="HTML">
+            <label for="html">CHINESE</label><br>
+            &nbsp;&nbsp;&nbsp;&nbsp;<input type="radio" id="html" name="cu" value="HTML">
+            <label for="html">MEXICAN</label><br></form>
+        <p><b> CLICK BELOW TO SELECT SEAT </b></p>
+        <a href="seat choosing site.html"> CHOOSE SEAT </a>
+          
+    </body>
+</html>

@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>FINISHING SITE</title>
+        <style>
+            body{
+                color: white;
+                text-align: center;
+            }
+            </style>
+        </head>
+    <body
+        style="background-image: url('res2.jpg');
+        background-size: cover;
+        background-repeat: no-repeat;">
+        <br><br><br><br><br><br><br><br>
+        <h1><b>SUCCESSFULLY BOOKED!!</b></h1>
+        <h3><b>NOTHING BRINGS PEOPLE TOGETHER LIKE GOOD FOOD...</b></h3>
+        <img src="tradfood.jpg" alt="dinning table" width="600">
+        </body>
+</html>

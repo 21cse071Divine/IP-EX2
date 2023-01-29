@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Restaurant Seat Reservation</title>
+                <style>
+            body{
+                text-align: center;
+                color: whitesmoke;
+            }
+        </style>
+        
+    </head>
+    <body
+        style= "background-image: url('res2.jpg');
+        background-position: center;
+        background-size: cover;
+        background-repeat: no-repeat;">
+        <h1 style="font-style: italic;
+            font-size:40px;
+            text-align: center;">
+            THE GRILL SPOT</h1>
+        <div style="text-align: center">
+        <img src="logo1.jpg" alt="Logo not available" width="180" height="180" >
+        </div><br><br>
+        <div style="text-align: left;
+             font-size: 15px;">
+            <b>ADDRESS:
+             </b>
+            <pre>
+            16,100 Feet Road,KK.Nagar,
+            Madurai-01.</pre><br>
+            <b>INFO:</b>
+            <pre>
+            9876597865
+            grillspot@gamil.com</pre><br>
+            <b>OPENING HOURS:</b>
+            <pre>
+            7:30am - 10:30am
+            12:00pm - 4:00pm
+            6:30pm - 10:30pm</pre><br>
+            <b>DIRECTIONS:</b>
+            <a href="https://www.google.co.in/maps/place/Barbeque+Nation/@13.3493864,74.7806109,17z/data=!3m1!4b1!4m5!3m4!1s0x3bbca4ab7d9fc52f:0x7867893ae79322db!8m2!3d13.3493864!4d74.7827996?authuser=1&hl=en-GB">
+                <p>&diam;  location</p>
+            </a><br>
+        </div>
+        <div style="text-align: center">
+        <img src="menu.jpg" alt="menu not available" width="880" height="400" >
+        </div>
+        <p><b>Don't wait in line to enjoy your meal!!</b></p>
+        <p><b> CLICK BELOW TO BOOK </b></p>
+        <a href="file:///C:/Users/91984/OneDrive/Documents/NetBeansProjects/HTML2/public_html/index.html"> CHOOSE DATE </a>
+            </body>
+</html>

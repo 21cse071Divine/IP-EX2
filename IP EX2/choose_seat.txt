@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Choose a seat</title>
+        <style>
+            body{
+                color: whitesmoke;
+                text-align: center;
+            }
+        </style>
+    </head>
+    <body
+        style="background-image: url('res2.jpg');
+        background-size: cover;
+        background-repeat: no-repeat;">
+        <div style="text-align: center">
+            <br><br><br><br>    
+        <h1><b> CHOOSE YOUR SEAT</b></h1>
+        </div>
+        <img src="seat arrangement.jpg" alt="dinning table" width="747px" usemap="#imagemapping">
+        <map name="imagemapping">
+            <area shape="rect" coords="161,47,132,16" alt="No image" href="payment.html" target="_blank">
+            <area shape="rect" coords="304,46,275,17" alt="No image" href="payment.html" target="_blank">
+            <area shape="rect" coords="80,353,51,324" alt="No image" href="payment.html" target="_blank">
+            <area shape="rect" coords="189,353,160,324" alt="No image" href="payment.html" target="_blank">
+            <area shape="rect" coords="300,353,271,324" alt="No image" href="payment.html" target="_blank">
+            <area shape="rect" coords="412,353,383,324" alt="No image" href="payment.html" target="_blank">
+            <area shape="rect" coords="598,353,569,324" alt="No image" href="payment.html" target="_blank">
+            <area shape="rect" coords="700,353,671,324" alt="No image" href="payment.html" target="_blank">
+            <area shape="rect" coords="72,167,43,110" alt="No image" href="payment.html" target="_blank">
+            <area shape="rect" coords="167,166,138,109" alt="No image" href="payment.html" target="_blank">
+            <area shape="rect" coords="69,271,34,234" alt="No image" href="payment.html" target="_blank">
+            <area shape="rect" coords="173,271,138,234" alt="No image" href="payment.html" target="_blank">
+            <area shape="rect" coords="275,272,240,235" alt="No image" href="payment.html" target="_blank">
+            <area shape="rect" coords="378,271,343,234" alt="No image" href="payment.html" target="_blank">
+            <area shape="poly" coords="599,75,554,73,565,87,578,97,578,52,589,85,565,63,589,60" alt="No image" href="payment.html" target="_blank">
+            <area shape="poly" coords="715,71,670,69,694,94,694,48" alt="No image" href="payment.html" target="_blank">
+            <area shape="poly" coords="715,165,670,163,694,188,694,142" alt="No image" href="payment.html" target="_blank">
+            <area shape="poly" coords="600,165,555,163,566,177,579,188,579,142,566,153,590,175,589,153" alt="No image" href="payment.html" target="_blank">
+            <area shape="poly" coords="614,258,569,256,580,270,593,281,593,235,580,246,604,268,603,246" alt="No image" href="payment.html" target="_blank">
+            <area shape="poly" coords="717,258,672,256,696,281,696,235" alt="No image" href="payment.html" target="_blank">
+        </map>
+        </body>
+</html>
